@@ -1,3 +1,5 @@
+Privacy Policy
+
 Effective Date: February 28, 2026
 App Name: Routine Timer - Pro Planner
 Developer: MH Apps Dev

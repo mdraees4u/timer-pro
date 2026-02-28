@@ -1,122 +1,95 @@
-Terms & Conditions — Timer Pro
+Terms & Conditions (Terms of Use)
 
-Developer: MH Apps Dev
-Effective date: February 25, 2026
-Contact: helpdev4u@gmail.com
+Effective Date: February 28, 2026
+App Name: Routine Timer - Pro Planner
+Developer: MH Apps Dev (“we”, “our”, “us”)
+Support: helpdev4u@gmail.com
 
-These Terms & Conditions (“Terms”) govern your use of Timer Pro (“the App”) on Android.
+1) Acceptance of Terms
 
-By downloading or using the App, you agree to these Terms.
+By downloading, installing, accessing, or using Routine Timer - Pro Planner (the “App”), you agree to these Terms & Conditions (“Terms”). If you do not agree, please do not use the App.
 
-1) License and Use
+2) About the App
 
-MH Apps Dev grants you a limited, non-exclusive, non-transferable license to use the App for personal or internal use in accordance with these Terms.
+The App helps users create routines, timers, schedules, reminders, and productivity plans. The App is provided for general planning and productivity purposes.
 
-You agree not to:
+3) Eligibility
 
-Copy, modify, reverse engineer, decompile, or attempt to extract the source code except as permitted by law
+You must be able to legally agree to these Terms in your country/region. If you are using the App on behalf of an organization, you confirm you have authority to bind that organization to these Terms.
 
-Use the App for unlawful or abusive purposes
+4) License to Use
 
-Interfere with or disrupt the App’s operation
+We grant you a personal, non-exclusive, non-transferable, revocable license to use the App for lawful purposes and in accordance with these Terms. All rights not expressly granted are reserved by MH Apps Dev.
 
-2) Your Content and Responsibility
+5) User Responsibilities
 
-The App may allow you to create content (e.g., timers, routines, notes, history, backups). You are responsible for:
+You agree that you will:
 
-The accuracy of data you enter
+Use the App only for lawful purposes
 
-Maintaining the confidentiality and security of exported backups/exports
+Not misuse the App, interfere with its operation, or attempt to access it using unauthorized methods
 
-Ensuring your use complies with local laws and regulations
+Not reverse engineer, decompile, modify, distribute, sell, rent, lease, or create derivative works of the App except as permitted by law
 
-3) Backups and Data Safety
+Keep your device secure (e.g., device lock, malware protection) to protect your routines and data stored on your device
 
-The App may provide backup/import/export features. You understand that:
+6) Content & Data You Create
 
-Exported files are stored where you choose; you are responsible for protecting them.
+The routines, schedules, notes, timer settings, and other content you create in the App (“User Content”) belong to you.
+You are responsible for your User Content, including ensuring it is accurate and appropriate.
 
-Importing backups may overwrite existing data depending on the import method.
+7) Purchases, Subscriptions, and Payments (If Applicable)
 
-While we aim to keep the App reliable, data loss is still possible due to device issues, OS updates, user actions, or unforeseen bugs.
+The App may offer paid features (one-time purchases or subscriptions) through the Google Play Billing system.
 
-We recommend exporting backups periodically if your data is important to you.
+Payments are processed by Google/your app store provider, not directly by us.
 
-4) Notifications and Device Features
+Prices, billing periods, and renewal terms (for subscriptions) are shown at purchase time in the store interface.
 
-If you enable reminders/notifications, the App will schedule alerts based on your configuration. Delivery timing may vary due to:
+Subscriptions, if offered, may auto-renew unless canceled through your Google Play account settings before the renewal date.
 
-Android power management, battery optimization, Doze mode
+Refunds are subject to Google Play’s refund policies.
 
-Notification permission settings
+8) Updates & Changes
 
-Manufacturer-specific background restrictions
+We may provide updates (bug fixes, improvements, or new features). You agree that:
 
-The App is not responsible for missed notifications caused by system restrictions or disabled permissions.
+The App may update automatically depending on your device settings
 
-5) Third-Party Services (Google Play Billing, Platform Services)
+Some features may change, be removed, or be added over time
 
-Some functionality may rely on third-party services, such as:
+9) Third-Party Services
 
-Google Play Billing for purchases/subscriptions
+The App may integrate with third-party services (for example, analytics, crash reporting, or store billing). Your use of those services may be governed by their own terms and policies. We are not responsible for third-party services.
 
-Android system services (notifications, file picker, text-to-speech)
+10) Disclaimer (No Warranties)
 
-Your use of such services may also be governed by their terms and policies.
+The App is provided “as is” and “as available.” To the maximum extent permitted by law, we disclaim all warranties, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-6) Paid Features and Subscriptions (If Available)
+We do not guarantee that:
 
-If the App offers premium features:
+The App will be uninterrupted, error-free, or always available
 
-Pricing and billing are shown in the App and/or Google Play
+Timers/notifications will work perfectly on all devices (system settings, battery optimization, and OS restrictions may affect them)
 
-Subscriptions (if any) renew automatically unless cancelled through Google Play
+11) Limitation of Liability
 
-Refund requests are handled according to Google Play policies
+To the maximum extent permitted by law, MH Apps Dev will not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data, lost profits, or business interruption, arising out of or related to your use of the App.
 
-We may change premium features over time, but will make reasonable efforts to keep core value consistent
+Our total liability for any claim related to the App will not exceed the amount you paid (if any) for the App in the 12 months before the event giving rise to the claim.
 
-7) Updates and Changes
+12) Termination
 
-We may update the App to:
+We may suspend or terminate your access to the App if you violate these Terms or misuse the App. You may stop using the App at any time by uninstalling it.
 
-Add or improve features
+13) Governing Law
 
-Fix bugs and security issues
+These Terms will be governed by the laws applicable in your jurisdiction, unless local consumer laws require otherwise.
 
-Maintain compatibility with Android updates
+14) Changes to These Terms
 
-You agree that the App may change over time.
+We may update these Terms from time to time. If we make material changes, we will update the “Effective Date.” Continued use of the App after changes means you accept the updated Terms.
 
-8) Disclaimer of Warranties
+15) Contact Us
 
-The App is provided “as is” and “as available.”
-To the maximum extent permitted by law, MH Apps Dev disclaims all warranties, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-We do not guarantee the App will always be error-free or uninterrupted.
-
-9) Limitation of Liability
-
-To the maximum extent permitted by law, MH Apps Dev will not be liable for:
-
-Indirect, incidental, special, consequential, or punitive damages
-
-Loss of data, profits, or business opportunities
-
-Issues caused by device restrictions, OS behavior, or third-party services
-
-Total liability, if any, will not exceed the amount you paid for the App (if applicable) during the last 12 months.
-
-10) Termination
-
-You may stop using the App at any time by uninstalling it.
-We may suspend or terminate access to premium features if misuse, fraud, or policy violations are detected, to the extent permitted.
-
-11) Governing Law
-
-These Terms will be governed by the laws applicable in your jurisdiction, unless required otherwise by consumer protection laws.
-
-12) Contact Us
-
-For support or questions about these Terms:
-MH Apps Dev — helpdev4u@gmail.com
+If you have questions about these Terms, contact: helpdev4u@gmail.com
